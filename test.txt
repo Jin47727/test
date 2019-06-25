@@ -1,3 +1,4 @@
 ceshide
 yonglaishanchu
-createint a branch is quick
+createint a new branch is quick and simple
+
